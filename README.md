@@ -12,4 +12,4 @@
 </br>
 
 ### ⭐My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejz0715&show_icons=true&title_color=f59dba&icon_color=f23875) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejz0715&show_icons=true&theme=dracula) 
