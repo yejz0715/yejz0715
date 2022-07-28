@@ -1,6 +1,10 @@
 
 ### Hi I am YeJi Lee 👋
 
+안녕하세요 저는 프론트앤드 개발자가 되고싶은 이예지입니다.
+</br>
+</br>
+### 🎈ME
  <a href="https://velog.io/@yejz0715"><img src="https://img.shields.io/badge/velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejz0715"/></a>
  <a href="mailto:yejz0715@gmail.com"><img src="https://img.shields.io/badge/yejz0715@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yejz0715@gmail.com"/></a>
 </br>
